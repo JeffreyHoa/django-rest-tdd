@@ -1,0 +1,35 @@
+[
+  {
+    "model": "movies.movie",
+    "pk": 1,
+    "fields": {
+      "title": "t1",
+      "genre": "comedy",
+      "year": "1996",
+      "created_date": "2020-11-11T23:07:11.686Z",
+      "updated_date": "2020-11-11T23:07:11.686Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 2,
+    "fields": {
+      "title": "No Country for Old Men",
+      "genre": "t2",
+      "year": "2007",
+      "created_date": "2020-11-11T23:07:52.070Z",
+      "updated_date": "2020-11-11T23:07:52.070Z"
+    }
+  },
+  {
+    "model": "movies.movie",
+    "pk": 3,
+    "fields": {
+      "title": "A t3",
+      "genre": "comedy",
+      "year": "2009",
+      "created_date": "2020-11-11T23:08:22.582Z",
+      "updated_date": "2020-11-11T23:08:22.582Z"
+    }
+  }
+]
